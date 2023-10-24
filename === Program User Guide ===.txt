@@ -1,0 +1,41 @@
+=== Program User Guide ===
+
+1. Prerequisites:
+   - Ensure you have Python installed on your computer. You can download it from https://www.python.org/downloads/.
+   - Download the word list file (words_alpha.txt) from this URL: https://github.com/dwyl/english-words/blob/master/words_alpha.txt. Save it in the same directory as the Python script.
+
+2. Running the Program:
+   - Open a terminal or command prompt.
+   - Navigate to the directory where you saved the Python script and the word list file. Use the 'cd' command followed by the path to the directory where you saved your Python script and word list file
+
+3. Starting the Program:
+   - Run the program by executing the Python script (Enter: python .\Brsk_Assessment.py) in your terminal.
+
+4. Using the Program:
+   - The program prompts you to enter a sentence. 
+   - Then the program provides you with a simple menu with the following options:
+      - 0: End the program
+      - 1: Regenerate the sentence using the same input
+      - 2: Enter a new sentence
+
+5. Entering Sentences:
+   - Choose option 2 to enter a new sentence.
+   - Type the sentence you want to modify and press Enter.
+
+6. Viewing the Results:
+   - The program will display the original sentence and the modified sentence.
+   - The modified sentence will replace words with words from the word list that have the same length and start with the same letter.
+   - If no replacement is found for a word, it will be left unchanged.
+
+7. Options and Navigation:
+   - After viewing the results, the program will prompt you with the options menu again.
+   - You can choose to regenerate the sentence using the same input (option 1), enter a new sentence (option 2), or end the program (option 0).
+
+8. Ending the Program:
+   - If you're done using the program, select option 0 to exit the program.
+
+9. Repeating or Trying Different Sentences:
+   - You can continue using the program to modify multiple sentences by selecting option 1 or 2 as needed.
+
+
+
